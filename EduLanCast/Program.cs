@@ -14,7 +14,7 @@ namespace EduLanCast
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PanelForm());
+            Application.Run(new TeaMainForm());
         }
     }
 }
